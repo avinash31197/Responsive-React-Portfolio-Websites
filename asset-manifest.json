@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Responsive-React-Portfolio-Websites/static/css/main.6f197e45.css",
+    "main.js": "/Responsive-React-Portfolio-Websites/static/js/main.f2e29d02.js",
+    "static/media/work9.png": "/Responsive-React-Portfolio-Websites/static/media/work9.1a6b486cb4c93b05b9e3.png",
+    "static/media/work11.png": "/Responsive-React-Portfolio-Websites/static/media/work11.0f8d5753f3f28808191a.png",
+    "static/media/work7.png": "/Responsive-React-Portfolio-Websites/static/media/work7.b0bb330ec06550605bd7.png",
+    "static/media/work8.png": "/Responsive-React-Portfolio-Websites/static/media/work8.42c5addb7414264ae7f4.png",
+    "static/media/work5.png": "/Responsive-React-Portfolio-Websites/static/media/work5.89694be553978aadf465.png",
+    "static/media/profile1.png": "/Responsive-React-Portfolio-Websites/static/media/profile1.5cf8f1d7bd797b3e9848.png",
+    "static/media/profile@.jpeg": "/Responsive-React-Portfolio-Websites/static/media/profile@.d82719ee6b1325d36388.jpeg",
+    "static/media/work6.png": "/Responsive-React-Portfolio-Websites/static/media/work6.b7620519ff616e7f60a5.png",
+    "static/media/AVINASH's Resumes.pdf": "/Responsive-React-Portfolio-Websites/static/media/AVINASH's Resumes.4182afefeb5b2617f80f.pdf",
+    "static/media/avinash1.jpeg": "/Responsive-React-Portfolio-Websites/static/media/avinash1.93409b49b37e4764d07d.jpeg",
+    "static/media/avinash12.jpg": "/Responsive-React-Portfolio-Websites/static/media/avinash12.0cc749e92a5bea8c4518.jpg",
+    "index.html": "/Responsive-React-Portfolio-Websites/index.html",
+    "main.6f197e45.css.map": "/Responsive-React-Portfolio-Websites/static/css/main.6f197e45.css.map",
+    "main.f2e29d02.js.map": "/Responsive-React-Portfolio-Websites/static/js/main.f2e29d02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f197e45.css",
+    "static/js/main.f2e29d02.js"
+  ]
+}
